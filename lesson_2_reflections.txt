@@ -1,3 +1,14 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
   staging area is an intermediary betwheen the working directory and the repository. it offers more control for the rescue on commits.  
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+ because i can view the difference betwheen my previous commit and the staging area so i can be more sure about the logical change that i introduced 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ 
+ for example when i want to create different version of my main project. for example i want to add some feature but they are sperimental and i don't want to include them immediatly i can create a new branch named "experimental". branches helps because i can develop different version of my project and at the same time maintain the principal version 
+ 
+
+ 
